@@ -32,4 +32,4 @@ La carga inicial incluye:
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/terrax-backend.git
+git clone https://github.com/juancabernal/terraxs-backend.git
